@@ -19,3 +19,4 @@ partial class Example
 - Generate Generic Collection
 - Custom Option
 - Disposable Collection
+- Support `record`, `struct` etc..
